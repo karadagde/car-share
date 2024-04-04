@@ -1,0 +1,18 @@
+
+”
+java:S1192"LDefine a constant instead of duplicating this literal ", not found" 3 times.(ó„Æ÷şÿÿÿÿ8Ó¾°„è1J$c73c87fd-c7f0-46ea-a423-c1a9671fcf1b
+]
+java:S1220""Move this file to a named package.8Õ¾°„è1J$e12b1cf7-2cea-4765-a397-2a2d0598c773
+r	java:S106"+Replace this use of System.out by a logger.(…«óøÿÿÿÿ8Ş¾°„è1J$b5ee3e45-dd82-4769-9ac5-e8738b0295fb
+r	java:S106"+Replace this use of System.out by a logger.(ó„Æ÷şÿÿÿÿ8à¾°„è1J$8bed66b2-8f25-4b83-8179-3152bf0b470e
+r	java:S106""+Replace this use of System.out by a logger.(Ÿâ¿ÿÿÿÿÿ8á¾°„è1J$1a498181-f83b-4385-a824-6b6a2a4b747f
+m	java:S106,"+Replace this use of System.out by a logger.(™ó‘ÿ8ã¾°„è1J$312e144a-15c5-4145-96b6-9d2326449c27
+m	java:S106."+Replace this use of System.out by a logger.(Òçüö8ä¾°„è1J$20755e6f-21b2-43b8-b8cb-dbd058c5ac4b
+m	java:S1068"+Replace this use of System.out by a logger.(àæ¿™8æ¾°„è1J$4e7c221b-70c0-4275-b780-dbad77b1c77a
+r	java:S106:"+Replace this use of System.out by a logger.(£Ùä™øÿÿÿÿ8ç¾°„è1J$a616f8a0-aea7-4fc4-8729-b3d7e59c861f
+‚
+java:S1854X":Remove this useless assignment to local variable "noUser".(ìéñËÿÿÿÿÿ8é¾°„è1J$4f34ca99-f00c-4201-91d1-438b69dc7c6f
+s
+java:S1481X"+Remove this unused "noUser" local variable.(ìéñËÿÿÿÿÿ8ù¾°„è1J$bcedebc8-12b9-491b-87f9-0b59ee787957
+r	java:S106`"+Replace this use of System.out by a logger.(Íâ´‡øÿÿÿÿ8û¾°„è1J$156424b9-3315-4650-9419-f34efa819b7b
+r	java:S106a"+Replace this use of System.out by a logger.(öã•Úúÿÿÿÿ8û¾°„è1J$c8a9d951-b70b-4a09-89e2-2ef500bd26ab
